@@ -53,6 +53,35 @@ Jika data pelanggan kosong, sistem akan menampilkan pesan bahwa data belum terda
 
 ### 4. Update
 
+<img width="459" height="236" alt="image" src="https://github.com/user-attachments/assets/e0421a6c-bace-41c1-ab5f-fee471517c8b" />
+
+Jika kita memilih pilihan "3. Ubah Data Pelanggan", sistem akan meminta kita memasukkan nomor pelanggan yang ada di daftar pelanggan. Jika sesuai, sistem akan meminta kita mengisi nama baru dan durasi yang baru dan mengembalikan kita ke menu utama.
+
+
+<img width="473" height="193" alt="image" src="https://github.com/user-attachments/assets/ab01df7b-2841-4bb9-921f-cbf5d8db30f0" />
+
+Jika kita nomor pelanggan yang dimasukkan tidak ada, sistem akan menampilkan bahwa pelanggan yang dimaksud tidak ada dan mengembalikan kita ke menu utama.
+
+### 5. Delete
+
+<img width="503" height="192" alt="image" src="https://github.com/user-attachments/assets/f1ca2c06-7a6b-420d-91eb-34c75860d670" />
+
+Apabila kita memilih pilihan "4. Hapus Data Pelanggan", sama seperti sebelumnya sistem akan meminta nomor pelanggan yang dimaksud. Apabila terdapat pelanggan yang sesuai akan langsung dihapus oleh sistem dan kita kembali ke menu utama.
+
+
+<img width="478" height="189" alt="image" src="https://github.com/user-attachments/assets/fd73b5bd-4fc6-4cb6-aae1-b08e3376fe65" />
+
+Dan jika nomor pelanggan yang dimaksud tidak ada, sistem akan menampilkan pesan bahwa nomor pelanggan tidak ada dan kembali ke menu utama.
+
+### 6. Keluar
+
+<img width="728" height="299" alt="image" src="https://github.com/user-attachments/assets/3f82eed3-7687-4cd3-a217-9ad4f81ccc38" />
+
+Dan terakhir apabila kita memilih pilihan "5. Keluar" sistem akan menyelesaikan programnya.
+
+
+
+
 
 
 
